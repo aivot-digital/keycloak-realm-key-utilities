@@ -24,3 +24,4 @@ So run these utilities in the root folder of your docker compose setup for the k
    ```bash
    ./key_utilities/docker/keycloak_keys_import.sh keys.out
    ```
+6. Restart the Keycloak instance
