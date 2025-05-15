@@ -8,7 +8,7 @@ So run these utilities in the root folder of your docker compose setup for the k
 # Usage
 1. Clone this Repo
    ```bash
-   git clone git@github.com:aivot-digital/keycloak-realm-key-utilities.git key_utilities
+   git clone https://github.com/aivot-digital/keycloak-realm-key-utilities.git key_utilities
    ```
 2. Make the scripts executable
    ```bash
